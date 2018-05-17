@@ -1,4 +1,10 @@
 [
+   {
+      "name":"testnet 8bf9",
+      "status":"active",
+      "IPV6Address":"fc78:5706:5491:2a40:86a4:9f66:7556:8bf9",
+      "dateAdded": "2018-05-16T23:52:59.804Z"
+   },
    {     
      "name": "testnet ipfs",
      "status": "active",
