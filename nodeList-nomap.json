@@ -53,6 +53,12 @@
      "dateAdded": "2018-04-29T23:52:59.804Z"      
    },
    {
+     "name":"tubez-bb6a",
+     "status": "active",
+     "IPV6Address":"fc8b:9edd:c92e:fd02:361d:e680:432e:bb6a",
+     "dateAdded": "2018-05-22T14:52:59.804Z"      
+   },
+   {
      "name":"Hamilton-NJ-1",
      "status": "active",
      "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
