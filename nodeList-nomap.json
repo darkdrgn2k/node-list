@@ -63,5 +63,17 @@
      "status": "active",
      "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
      "dateAdded": "2018-05-07T00:19:00.000Z"
+   },
+   {
+     "name":"MeshStream 3cf3 (EP)",
+     "status": "active",
+     "IPV6Address":"fced:c918:7e40:75d:a6e1:d379:3930:3cf3",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
+   },
+   {
+     "name":"MeshStream 3cf3 (Cam)",
+     "status": "active",
+     "IPV6Address":"fcd5:adf1:b0ca:6771:308e:48fa:eaaa:8497",
+     "dateAdded": "2018-04-19T23:52:59.804Z"
    }
 ]
