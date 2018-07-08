@@ -1,36 +1,36 @@
 [
    {
-      "name":"testnet 8bf9 (Outdoor)",
+      "name":"test-out 8bf9",
       "status":"active",
       "IPV6Address":"fc78:5706:5491:2a40:86a4:9f66:7556:8bf9",
       "dateAdded": "2018-05-16T23:52:59.804Z"
    },
    {
-      "name":"testnet fd90 (Espresso)",
+      "name":"test-bin-fd90",
       "status":"active",
       "IPV6Address":"fcd0:7b28:fb21:730e:4a21:5149:3411:fd90",
       "dateAdded": "2018-05-16T23:52:59.804Z"
    },
    {     
-     "name": "testnet ipfs",
+     "name": "test ipfs",
      "status": "active",
      "IPV6Address":"fc1f:391f:fc0e:aabb:34a9:790c:35e6:e47a",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },   
    {
-     "name":"testnet f7c4",
+     "name":"test f7c4",
      "status": "active",
      "IPV6Address":"fcbd:fc99:c9e0:8561:9b2:974a:101:f7c4",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
    {
-     "name":"testnet f088",      
+     "name":"test f088",      
      "status": "active",
      "IPV6Address":"fc49:9c97:515f:3225:5efe:2be9:6fe5:f088",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
    {
-     "name":"testnet d4e",
+     "name":"test d4e",
      "status": "active",
      "IPV6Address":"fc39:85a5:dd3d:58ee:6937:21a0:8846:d4e",
      "dateAdded": "2018-04-19T23:52:59.804Z"
@@ -71,13 +71,13 @@
      "dateAdded": "2018-05-07T00:19:00.000Z"
    },
    {
-     "name":"MeshStream 3cf3 (EP)",
+     "name":"MS-end 3cf3",
      "status": "active",
      "IPV6Address":"fced:c918:7e40:75d:a6e1:d379:3930:3cf3",
      "dateAdded": "2018-04-19T23:52:59.804Z"
    },
    {
-     "name":"MeshStream 3cf3 (Cam)",
+     "name":"MS-cam 3cf3",
      "status": "active",
      "IPV6Address":"fcd5:adf1:b0ca:6771:308e:48fa:eaaa:8497",
      "dateAdded": "2018-04-19T23:52:59.804Z"
