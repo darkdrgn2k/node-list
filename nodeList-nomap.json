@@ -81,5 +81,11 @@
      "status": "active",
      "IPV6Address":"fcbb:7b4f:cd48:5225:7318:4bea:ee63:9d4a",
      "dateAdded": "2018-08-17T23:52:59.804Z"
+   },
+    {
+     "name":"aether-pi3",
+     "status": "active",
+     "IPV6Address":"fcfe:b061:60ac:f908:ea67:9f91:24fd:a43e",
+     "dateAdded": "2018-09-07T23:52:59.804Z"
    }
 ]
