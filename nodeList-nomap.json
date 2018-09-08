@@ -87,5 +87,11 @@
      "status": "active",
      "IPV6Address":"fcfe:b061:60ac:f908:ea67:9f91:24fd:a43e",
      "dateAdded": "2018-09-07T23:52:59.804Z"
+   },
+    {
+     "name":"aether-espresso",
+     "status": "active",
+     "IPV6Address":"fc35:fe21:a600:fdbb:cb18:cede:c1cc:4c04",
+     "dateAdded": "2018-09-07T23:52:59.804Z"
    }
 ]
