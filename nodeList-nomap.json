@@ -1,68 +1,65 @@
 [
    {
-      "name":"test-out 8bf9",
-      "status":"active",
-      "IPV6Address":"fc78:5706:5491:2a40:86a4:9f66:7556:8bf9",
-      "dateAdded": "2018-05-16T23:52:59.804Z"
-   },
-   {
-      "name":"test-bin-fd90",
-      "status":"active",
-      "IPV6Address":"fcd0:7b28:fb21:730e:4a21:5149:3411:fd90",
-      "dateAdded": "2018-05-16T23:52:59.804Z"
-   },  
-   {
-     "name":"test 82ec",
+     "name":"emesh-EXIT1",
      "status": "active",
-     "IPV6Address":"fcaa:4cc3:c2c5:f998:abc5:5b5b:9428:82ec",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
+     "IPV6Address":"fcbb:3e34:cdfe:9e99:cb34:c3a3:1604:9955",
+     "dateAdded": "2018-06-29T23:52:59.804Z",
+     "group": "tomesh"
    },
    {
      "name":"test f3c4",
      "status": "active",
      "IPV6Address":"fc6e:4ca6:4e7a:3e2f:3dbe:c3eb:eb2a:f3c4",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
+     "dateAdded": "2018-04-19T23:52:59.804Z",
+     "group": "tomesh"
    },
    {
      "name":"test 5baf",
      "status": "active",
      "IPV6Address":"fc1a:2fba:4b66:a50d:b609:7974:beb6:5baf",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
-   },         
+     "dateAdded": "2018-04-19T23:52:59.804Z",
+     "group": "tomesh"
+   },
    {
      "name":"westmount a6a4",
      "status": "active",
      "IPV6Address":"fc9d:ae29:44bb:2fde:add8:19a:cd4f:a6a4",
-     "dateAdded": "2018-04-19T23:52:59.804Z"
+     "dateAdded": "2018-04-19T23:52:59.804Z",
+     "group": "tomesh"
    },      
    {
      "status": "active",
      "IPV6Address":"fc13:638:82bf:21fd:b5a4:7b77:bc04:206e",
-     "dateAdded": "2018-04-19T23:52:59.804Z"      
+     "dateAdded": "2018-04-19T23:52:59.804Z",
+     "group": "tomesh"
    },
    {
      "name":"tubez-168e",
      "status": "active",
      "IPV6Address":"fc41:47b9:dd78:ff21:1b24:dab8:3f81:168e",
-     "dateAdded": "2018-04-29T23:52:59.804Z"      
+     "dateAdded": "2018-04-29T23:52:59.804Z",
+     "group": "tomesh"
    },
    {
      "name":"tubez-2175",
      "status": "active",
      "IPV6Address":"fc05:1f85:84e5:681b:c42b:792b:b696:2175",
-     "dateAdded": "2018-04-29T23:52:59.804Z"      
+     "dateAdded": "2018-04-29T23:52:59.804Z",
+     "group": "tomesh"
    },
    {
      "name":"tubez-bb6a",
      "status": "active",
      "IPV6Address":"fc8b:9edd:c92e:fd02:361d:e680:432e:bb6a",
-     "dateAdded": "2018-05-22T14:52:59.804Z"      
+     "dateAdded": "2018-05-22T14:52:59.804Z",
+     "group": "tomesh"    
    },
    {
      "name":"Hamilton-NJ-1",
      "status": "active",
      "IPV6Address":"fc46:671f:c1de:8ec5:99e7:9c3f:fcc6:1458",
-     "dateAdded": "2018-05-07T00:19:00.000Z"
+     "dateAdded": "2018-05-07T00:19:00.000Z",
+     "group": "phillymesh"
    },
    {
      "name":"audstanley-60d5",
@@ -76,40 +73,58 @@
      "IPV6Address":"fcbb:7b4f:cd48:5225:7318:4bea:ee63:9d4a",
      "dateAdded": "2018-08-17T23:52:59.804Z"
    },
-    {
-     "name":"aether-pi3",
+   {
+     "name":"e3a2",
      "status": "active",
-     "IPV6Address":"fcfe:b061:60ac:f908:ea67:9f91:24fd:a43e",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
+     "IPV6Address":"fc6e:f50:40c9:dcbf:5f45:c0db:57f4:e3a2",
+     "dateAdded": "2018-10-02T00:19:00.000Z"
    },
-    {
-     "name":"aether-espresso",
+   {
+     "name":"7c4d",
      "status": "active",
-     "IPV6Address":"fc35:fe21:a600:fdbb:cb18:cede:c1cc:4c04",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
-   }, 
-    {
-     "name":"vanmesh",
-     "status":"active",
-      "IPV6Address": "fc72:2d6b:172f:f22b:f9f7:bad:20e4:3f",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
+     "IPV6Address":"fca8:8ef4:ad3b:c982:a807:889a:c1ef:7c4d",
+     "dateAdded": "2018-10-02T00:19:00.000Z"
+   },
+   {
+     "name":"dugnadsnett-1832",
+     "status": "active",
+     "IPV6Address":"fca3:2473:d82f:5119:8ea:38b5:ae40:1832",
+     "dateAdded": "2018-10-11T00:19:00.000Z",
+     "group": "dugnadsnett"
+   },
+   {
+     "name":"dugnadsnett-fba4",
+     "status": "active",
+     "IPV6Address":"fc3a:005d:8787:f878:2cb1:f110:01ee:fba4",
+     "dateAdded": "2018-10-11T00:19:00.000Z",
+     "group": "dugnadsnett"
    },
     {
-     "name":"6c55",
+     "name":"vanmesh-3f",
      "status":"active",
-      "IPV6Address": "fc7d:5b0:a61b:f2db:a8e7:feec:4ed1:6c55",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
+     "IPV6Address": "fc72:2d6b:172f:f22b:f9f7:bad:20e4:3f",
+     "dateAdded": "2018-09-07T23:52:59.804Z",
+     "group": "vanmesh"
    },
     {
-     "name":"6f0f",
+     "name":"vanmesh-6c55",
      "status":"active",
-      "IPV6Address": "fc4c:d43f:e731:ebea:5224:fa39:31fd:6f0f",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
+     "IPV6Address": "fc7d:5b0:a61b:f2db:a8e7:feec:4ed1:6c55",
+     "dateAdded": "2018-09-07T23:52:59.804Z",
+     "group": "vanmesh"
+   },
+    {
+     "name":"vanmesh-6f0f",
+     "status":"active",
+     "IPV6Address": "fc4c:d43f:e731:ebea:5224:fa39:31fd:6f0f",
+     "dateAdded": "2018-09-07T23:52:59.804Z",
+     "group": "vanmesh"
    },   
     {
-     "name":"fa37",
+     "name":"vanmesh-fa37",
      "status":"active",
-      "IPV6Address": "fc9f:8032:a672:d67b:b5a2:7dc6:5267:919f",
-     "dateAdded": "2018-09-07T23:52:59.804Z"
+     "IPV6Address": "fc9f:8032:a672:d67b:b5a2:7dc6:5267:919f",
+     "dateAdded": "2018-09-07T23:52:59.804Z",
+     "group": "vanmesh"
    }
 ]
