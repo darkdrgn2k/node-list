@@ -7,16 +7,16 @@
      "group": "tomesh"
    },
    {
-     "name":"test f3c4",
+     "name":"test 328e",
      "status": "active",
-     "IPV6Address":"fc6e:4ca6:4e7a:3e2f:3dbe:c3eb:eb2a:f3c4",
+     "IPV6Address":"fce9:62ba:1b59:5b2f:35e9:2570:e25:328e",
      "dateAdded": "2018-04-19T23:52:59.804Z",
      "group": "tomesh"
    },
    {
-     "name":"test 5baf",
+     "name":"test c7eb",
      "status": "active",
-     "IPV6Address":"fc1a:2fba:4b66:a50d:b609:7974:beb6:5baf",
+     "IPV6Address":"fc81:3bf9:f560:a785:ac70:6959:6d9a:c7eb",
      "dateAdded": "2018-04-19T23:52:59.804Z",
      "group": "tomesh"
    },
