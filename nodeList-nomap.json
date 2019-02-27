@@ -134,7 +134,21 @@
      "IPV6Address": "fc89:f3bb:9599:4351:2cfa:f8a5:d3cd:b403",
      "dateAdded": "2019-02-25T19:55:59.804Z",
      "group": "gomesh"
-   }   
+   },
+      {
+     "name":"Gomesh-131d,
+     "status":"active",
+     "IPV6Address": "fcc9:242c:b222:6aab:233f:5d60:ea5:131d",
+     "dateAdded": "2019-02-25T19:55:59.804Z",
+     "group": "gomesh"
+   },
+      {
+     "name":"Gomesh-7329,
+     "status":"active",
+     "IPV6Address": "fc3d:5305:dd0e:eb42:e625:5b5:c74a:7329",
+     "dateAdded": "2019-02-25T19:55:59.804Z",
+     "group": "gomesh"
+   } 
    
    
 ]
