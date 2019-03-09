@@ -176,7 +176,15 @@
      "IPV6Address": "fc3d:5305:dd0e:eb42:e625:5b5:c74a:7329",
      "dateAdded": "2019-02-25T19:55:59.804Z",
      "group": "gomesh"
+   },
+      {
+     "name":"pistream-167e",
+     "status":"active",
+     "IPV6Address": "fc58:a389:4e0f:bdee:21e1:ff06:bb23:167e",
+     "dateAdded": "2019-02-25T19:55:59.804Z",
    } 
+   
+   
    
    
 ]
