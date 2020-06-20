@@ -6,14 +6,14 @@
       "interfaces":{
          "lan0":{
             "proto":"static",
-            "IPv4":"100.64.1.1/25"
+            "IPv4":"100.64.1.1/24"
          },
          "lan1":{
             "proto":"dhcp"
          },
          "wan":{
             "proto":"static",
-            "IPv4":"100.64.3.1/25"
+            "IPv4":"100.64.3.1/24"
          }
       }
    },
