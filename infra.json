@@ -1,6 +1,8 @@
 {
    "node_name_1":{
       "type":"router",
+      "longitude":"0",
+      "latitude":"0",
       "interfaces":{
          "lan0":{
             "proto":"static",
@@ -21,7 +23,9 @@
       "ssid":"tomeshTEST1",
       "IPv4":"100.64.1.2",
       "node":"node_name_1",
-      "interface":"lan0",
+      "nodeInterface":"lan0",
+      "longitude":"0",
+      "latitude":"0",
       "antenna":{
          "position":"45",
          "spread":"120"
@@ -33,7 +37,9 @@
       "ssid":"tomeshTEST1",
       "IPv4":"100.64.1.e",
       "node":"node_name_2",
-      "interface":"eth0",
+      "nodeInterface":"eth0",
+      "longitude":"0",
+      "latitude":"0",
       "antenna":{
          "position":"45",
          "spread":"120"
@@ -41,6 +47,8 @@
    },
    "node_name_2":{
       "type":"router",
+      "longitude":"0",
+      "latitude":"0",
       "interfaces":{
          "eth0":{
             "proto":"dhcp"
