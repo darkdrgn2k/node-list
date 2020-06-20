@@ -31,7 +31,7 @@
       "type":"antenna",
       "mode":"AP",
       "ssid":"tomeshTEST1",
-      "IPv4":"100.64.1.2",
+      "IPv4":"100.64.1.e",
       "node":"node_name_2",
       "interface":"eth0",
       "antenna":{
