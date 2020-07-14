@@ -1,58 +1,64 @@
 {
-   "node_name_1":{
-      "type":"router",
-      "longitude":"0",
-      "latitude":"0",
-      "interfaces":{
-         "lan0":{
-            "proto":"static",
-            "IPv4":"100.64.1.1/24"
-         },
-         "lan1":{
-            "proto":"dhcp"
-         },
-         "wan":{
-            "proto":"static",
-            "IPv4":"100.64.3.1/24"
-         }
-      }
-   },
-   "antenna_name_1":{
-      "type":"antenna",
-      "mode":"AP",
-      "ssid":"tomeshTEST1",
-      "IPv4":"100.64.1.2",
-      "node":"node_name_1",
-      "nodeInterface":"lan0",
-      "longitude":"0",
-      "latitude":"0",
-      "antenna":{
-         "position":"45",
-         "spread":"120"
-      }
-   },
-   "antenna_name_2":{
-      "type":"antenna",
-      "mode":"AP",
-      "ssid":"tomeshTEST1",
-      "IPv4":"100.64.1.e",
-      "node":"node_name_2",
-      "nodeInterface":"eth0",
-      "longitude":"0",
-      "latitude":"0",
-      "antenna":{
-         "position":"45",
-         "spread":"120"
-      }
-   },
-   "node_name_2":{
-      "type":"router",
-      "longitude":"0",
-      "latitude":"0",
-      "interfaces":{
-         "eth0":{
-            "proto":"dhcp"
-         }
-      }
-   }
+    "node_name_1": {
+        "type": "router",
+        "latitude": 43.67294320193783,
+        "longitude": -79.49065126224754,
+        "IPv4": "100.64.1.1/24"
+    },
+    "antenna_name_1": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "tomeshTEST1",
+        "IPv4": "100.64.1.2",
+        "router": "node_name_1",
+        "latitude": 43.67294320193783,
+        "longitude": -79.49065126224754,
+        "antennaDirection":45,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "",
+        "antennaType": "Sector"
+    },
+    "antenna_name_2": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "tomeshTEST2",
+        "IPv4": "100.64.2.2",
+        "router": "node_name_2",
+        "latitude": 43.6724955412285,
+        "longitude": -79.49096252960481,
+        "antennaDirection": 135,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "",
+        "antennaType": "Sector"
+    },
+    "antenna_name_3": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "tomeshTEST3",
+        "IPv4": "100.64.3.2",
+        "router": "node_name_2",
+        "latitude": 43.67258639787409,
+        "longitude": -79.4916570881011,
+        "antennaDirection": 225,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "",
+        "antennaType": "Sector"
+    },
+    "antenna_name_4": {
+        "type": "antenna",
+        "mode": "AP",
+        "ssid": "tomeshTEST4",
+        "IPv4": "100.64.4.2",
+        "router": "node_name_2",
+        "latitude": 43.672958,
+        "longitude": -79.491947,
+        "antennaDirection": 315,
+        "antennaDegreas": 120,
+        "antennaDistance": 2500,
+        "antennaHeight": "",
+        "antennaType": "Sector"
+    }
 }
