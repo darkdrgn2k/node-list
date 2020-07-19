@@ -1,16 +1,16 @@
 {
-    "node_name_1": {
+    "SN1R1": {
         "type": "router",
         "latitude": 43.67294320193783,
         "longitude": -79.49065126224754,
-        "IPv4": "100.64.1.1/24"
+        "IPv4": "100.64.10.1/24"
     },
-    "antenna_name_1": {
+    "SN1A1": {
         "type": "antenna",
         "mode": "AP",
-        "ssid": "tomeshTEST1",
-        "IPv4": "100.64.1.2",
-        "router": "node_name_1",
+        "ssid": "TOMESH-AC-SN1A1",
+        "IPv4": "100.64.10.2",
+        "router": "SN1R1",
         "latitude": 43.67294320193783,
         "longitude": -79.49065126224754,
         "antennaDirection":45,
@@ -19,12 +19,12 @@
         "antennaHeight": "",
         "antennaType": "Sector"
     },
-    "antenna_name_2": {
+    "SN1A2": {
         "type": "antenna",
         "mode": "AP",
-        "ssid": "tomeshTEST2",
-        "IPv4": "100.64.2.2",
-        "router": "node_name_2",
+        "ssid": "TOMESH-AC-SN1A2",
+        "IPv4": "100.64.11.2",
+        "router": "SN1R1",
         "latitude": 43.6724955412285,
         "longitude": -79.49096252960481,
         "antennaDirection": 135,
@@ -33,12 +33,12 @@
         "antennaHeight": "",
         "antennaType": "Sector"
     },
-    "antenna_name_3": {
+    "SN1A3": {
         "type": "antenna",
         "mode": "AP",
-        "ssid": "tomeshTEST3",
-        "IPv4": "100.64.3.2",
-        "router": "node_name_2",
+        "ssid": "TOMESH-AC-SN1A3",
+        "IPv4": "100.64.12.2",
+        "router": "SN1R1",
         "latitude": 43.67258639787409,
         "longitude": -79.4916570881011,
         "antennaDirection": 225,
@@ -47,15 +47,15 @@
         "antennaHeight": "",
         "antennaType": "Sector"
     },
-    "antenna_name_4": {
+    "SN1A4": {
         "type": "antenna",
         "mode": "AP",
-        "ssid": "tomeshTEST4",
-        "IPv4": "100.64.4.2",
-        "router": "node_name_2",
-        "latitude": 43.672958,
-        "longitude": -79.491947,
-        "antennaDirection": 315,
+        "ssid": "TOMESH-AC-SN1A4",
+        "IPv4": "100.64.13.2",
+        "router": "SN1R1",
+        "latitude": 43.68407863,
+        "longitude": -79.52583333,
+        "antennaDirection": 1,
         "antennaDegreas": 120,
         "antennaDistance": 2500,
         "antennaHeight": "",
