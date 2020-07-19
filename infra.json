@@ -58,7 +58,7 @@
         "antennaDirection": 315,
         "antennaDegreas": 120,
         "antennaDistance": 2500,
-        "antennaHeight": "",
+        "antennaHeight": "240",
         "antennaType": "Sector"
     }
 }
