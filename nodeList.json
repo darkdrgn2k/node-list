@@ -50,6 +50,16 @@
     },
     {
       "altitude": 170,
+      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "group": "sn2",
+      "ipv4": "",
+      "latitude": 43.70536927477093,
+      "longitude": -79.34145972973633,
+      "name": "sn2r1",
+      "type": "router"
+    },    
+    {
+      "altitude": 170,
       "antennaCone": 120,
       "antennaDirection": 312,
       "antennaDistance": 2500,
@@ -109,6 +119,16 @@
     },
     {
       "altitude": 170,
+      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "group": "sn2",
+      "ipv4": "",
+      "latitude": 43.703112264996996,
+      "longitude": -79.3414369309597,
+      "name": "sn2r2",
+      "type": "router"
+    },  
+    {
+      "altitude": 170,
       "antennaCone": 20,
       "antennaDirection": 4,
       "antennaDistance": 500,
@@ -147,6 +167,16 @@
       "status": "proposed",
       "type": "antenna"
     },
+    {
+      "altitude": 170,
+      "dateAdded": "2020-07-23T18:00:00.000Z",
+      "group": "sn2",
+      "ipv4": "",
+      "latitude": 43.700929826372594,
+      "longitude": -79.34284777290154,
+      "name": "sn2r3",
+      "type": "router"
+    },  
     {
       "altitude": 170,
       "antennaDirection": 200,
