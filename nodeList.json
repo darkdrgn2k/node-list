@@ -56,6 +56,7 @@
       "latitude": 43.70536927477093,
       "longitude": -79.34145972973633,
       "name": "sn2r1",
+      "status": "proposed",
       "type": "router"
     },    
     {
@@ -125,6 +126,7 @@
       "latitude": 43.703112264996996,
       "longitude": -79.3414369309597,
       "name": "sn2r2",
+      "status": "proposed"
       "type": "router"
     },  
     {
@@ -175,6 +177,7 @@
       "latitude": 43.700929826372594,
       "longitude": -79.34284777290154,
       "name": "sn2r3",
+      "status": "proposed",
       "type": "router"
     },  
     {
