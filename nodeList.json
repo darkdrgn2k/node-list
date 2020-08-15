@@ -51,7 +51,7 @@
     {
       "altitude": 170,
       "antennaCone": 120,
-      "antennaDirection": 315,
+      "antennaDirection": 312,
       "antennaDistance": 2500,
       "antennaModel": "lap-120",
       "antennaProtocol": "airmaxac",
@@ -71,7 +71,7 @@
     {
       "altitude": 170,
       "antennaCone": 120,
-      "antennaDirection": 70,
+      "antennaDirection": 80,
       "antennaDistance": 2500,
       "antennaModel": "lap-120",
       "antennaProtocol": "airmaxac",
