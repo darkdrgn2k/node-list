@@ -114,7 +114,7 @@
       "mode": "station",
       "name": "sn2a3",
       "router": "sn2r1",
-      "ssid-client": "tomesh-airmaxac-sn2a4",
+      "ssid": "tomesh-airmaxac-sn2a4",
       "status": "proposed",
       "type": "antenna"
     },
@@ -195,7 +195,7 @@
       "mode": "station",
       "name": "sn2a6",
       "router": "sn2r3",
-      "ssid-client": "tomesh-airmaxac-sn2a5",
+      "ssid": "tomesh-airmaxac-sn2a5",
       "status": "proposed",
       "type": "antenna"
     },
